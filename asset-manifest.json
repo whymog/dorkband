@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dorkband/static/css/main.0df31758.chunk.css",
-    "main.js": "/dorkband/static/js/main.d8377106.chunk.js",
-    "main.js.map": "/dorkband/static/js/main.d8377106.chunk.js.map",
+    "main.js": "/dorkband/static/js/main.4a4d3466.chunk.js",
+    "main.js.map": "/dorkband/static/js/main.4a4d3466.chunk.js.map",
     "runtime~main.js": "/dorkband/static/js/runtime~main.821df4cf.js",
     "runtime~main.js.map": "/dorkband/static/js/runtime~main.821df4cf.js.map",
     "static/js/2.1644df9d.chunk.js": "/dorkband/static/js/2.1644df9d.chunk.js",
     "static/js/2.1644df9d.chunk.js.map": "/dorkband/static/js/2.1644df9d.chunk.js.map",
     "index.html": "/dorkband/index.html",
-    "precache-manifest.ea982b3c3cf0161aa40b1c962aab3bc3.js": "/dorkband/precache-manifest.ea982b3c3cf0161aa40b1c962aab3bc3.js",
+    "precache-manifest.a33670a2457e72e9b981789f5ec75ffe.js": "/dorkband/precache-manifest.a33670a2457e72e9b981789f5ec75ffe.js",
     "service-worker.js": "/dorkband/service-worker.js",
     "static/css/main.0df31758.chunk.css.map": "/dorkband/static/css/main.0df31758.chunk.css.map"
   }
